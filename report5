@@ -1,0 +1,156 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{WEEK 8 REPORT}
+\author{Sisulu Amanya}
+\date{March 2025}
+
+\begin{document}
+
+\maketitle
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{image.png}
+\end{figure}
+\textbf{Faculty of Engineering Design and Technology}
+
+\textbf{Department of Computing and Technology}
+
+\textbf{Recess Weekly Report}
+
+\textbf{Recess Term 2025}
+\newpage
+\subsection{\textbf{1. Title Page}}
+
+\textbf{Workshop Title:} Printer Maintenance and Networking
+
+\textbf{Student Name:} Amanya Sisulu
+
+\textbf{Student ID:} M23B24/006
+
+\textbf{Submission Date:} 09/3/25
+
+\textbf{Instructor:} Mr. Kakama Daniel
+
+\newpage
+\subsection{\textbf{2. Executive Summary}}
+
+This week, during the recess term workshop, we focused on understanding different types of printers, their components, troubleshooting techniques, preventive maintenance, and network setup. The training covered both theoretical and practical aspects, ensuring a hands-on experience in handling printer-related issues. We explored inkjet, laser, dot matrix, and thermal printers, delving into their internal parts and functions. The sessions included diagnosing common printer problems, applying preventive maintenance techniques, and successfully configuring printers on a network. By the end of the week, we had developed essential skills in printer setup and maintenance, which are critical for ICT support roles.
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-03-10 at 18.54.37_4c7c1168.jpg}
+\end{figure}
+
+\newpage
+\subsection{\textbf{3. Objectives of the Week}}
+
+\begin{itemize}
+    \item \textbf{Objective 1:} Understand different types of printers and their functionalities.
+    \item \textbf{Objective 2:} Identify and describe the key components of various printers.
+    \item \textbf{Objective 3:} Learn troubleshooting techniques and preventive maintenance procedures for printers.
+    \item \textbf{Objective 4:} Gain hands-on experience in setting up printers on a network.
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-03-10 at 18.54.39_30652023.jpg}
+\end{figure}
+\end{itemize}
+
+\newpage
+\subsection{\textbf{4. Activities Undertaken}}
+
+\subsubsection{\textbf{Activity 1: Understanding Printer Types and Components}}
+
+\textbf{Description:} We studied different types of printers, including inkjet, laser, dot matrix, 3-D and thermal printers, analyzing their advantages, disadvantages, and suitable applications. We also explored the essential components of laser jet printer, such as toner cartridges, print heads, rollers, and fuser units.
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{WhatsApp Image 2025-03-10 at 18.54.43_a07e7bf7.jpg}
+\end{figure}
+
+\textbf{Tools/Resources Used:} kyocera laser jet Printer, manuals.
+
+\textbf{Challenges Encountered:} Differentiating between complex printer mechanisms and understanding their unique functions.
+
+\textbf{Learning Insights:} Developed a solid understanding of printer operations and the importance of selecting the right printer for specific tasks.
+
+\newpage
+\subsubsection{\textbf{Activity 2: Printer Troubleshooting and Preventive Maintenance}}
+
+\textbf{Description:} We performed hands-on troubleshooting of common printer issues, such as paper jams, poor print quality, and connectivity problems. Preventive maintenance activities included cleaning printer heads, replacing cartridges, and checking roller alignment.
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{WhatsApp Image 2025-03-10 at 18.54.43_e2146d29.jpg}
+\end{figure}
+
+\textbf{Tools/Resources Used:} screw driver, blower, printer manuals.
+
+\textbf{Challenges Encountered:} Some printers required specialized tools for maintenance, and diagnosing software-related issues was challenging.
+
+\textbf{Learning Insights:} Learned the importance of regular maintenance to enhance printer longevity and performance.
+
+\newpage
+\subsubsection{\textbf{Activity 3: Printer Network Setup}}
+
+\textbf{Description:} We practiced configuring printers for network access, setting up wireless connections, and assigning IP addresses for efficient printer sharing.
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\linewidth]{WhatsApp Image 2025-03-10 at 18.54.44_d829663e.jpg}
+\end{figure}
+
+\textbf{Tools/Resources Used:} Network cables, laptops.
+
+\textbf{Challenges Encountered:}We had problems assigning IP addresses to our networks.
+
+\textbf{Learning Insights:} Gained experience in networking printers, which is essential for ICT support roles in organizational environments.
+
+\newpage
+\subsection{\textbf{5. Learning Outcomes}}
+
+\begin{itemize}
+    \item \textbf{Technical Skills Developed:} Identifying printer types, troubleshooting common printer issues, performing preventive maintenance, and configuring printers on a network.
+    \item \textbf{Conceptual Understanding:} Understanding how different printers work, their components, and how to ensure optimal performance.
+    \item \textbf{Methodological Insights:} Developed systematic approaches to troubleshooting and preventive maintenance, ensuring efficient printer management.
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-03-10 at 18.54.41_a10fca49.jpg}
+\end{figure}
+\end{itemize}
+
+\newpage
+\subsection{\textbf{6. Reflections}}
+
+This week's workshop provided valuable insights into printer maintenance and networking. The most interesting aspect was learning how different printer mechanisms work and the process of setting up printers on a network. Troubleshooting proved to be a challenge, especially when dealing with software-related issues, but it was rewarding to find solutions through systematic diagnostics. This experience contributed significantly to my overall understanding of ICT hardware and network administration. Future sessions could include more complex troubleshooting scenarios and exposure to enterprise-level printer management.
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-03-10 at 18.54.34_fcea0bf4.jpg}
+\end{figure}
+
+\newpage
+\subsection{\textbf{7. Action Plan for Next Week}}
+
+\begin{itemize}
+    \item \textbf{Review Materials:} Study printer manuals, troubleshooting guides, and networking protocols.
+    \item \textbf{Skill Development:} Practice advanced troubleshooting techniques and explore remote printer management.
+    \item \textbf{Preparatory Tasks:} Research different printer management tools used in enterprise settings.
+\end{itemize}
+
+\newpage
+\subsection{\textbf{8. Appendices (Optional)}}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-03-10 at 18.54.38_60a4412c.jpg}
+\end{figure}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-03-10 at 18.54.38_0a9c60bb.jpg}
+\end{figure}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-03-10 at 18.54.42_944a2358.jpg}
+\end{figure}
+
+\newpage 
+\subsection{9. References}
+https://www.kyoceradocumentsolutions.com/en/index.html
+
+\end{document}
