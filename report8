@@ -1,0 +1,110 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\begin{document}
+
+\maketitle
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{image.png}
+\end{figure}
+\textbf{Faculty of Engineering, Design and Technology}
+
+\textbf{Department of Computing}
+
+\textbf{Recess Weekly Report}
+
+\textbf{Recess Term 2025}
+
+\title{WEEK 12 REPORT}
+
+\author{Sisulu Amanya}
+
+
+\newpage
+\subsection{Title Page}
+
+\textbf{Workshop Title:} 3D Printing
+
+\textbf{Student Name:} Sisulu Amanya
+
+\textbf{Student ID:} M24B23/006 
+
+\newpage
+\subsection{Executive Summary}
+
+This week's workshop focused on the theoretical aspects of 3D printing, covering the fundamental principles, design processes, and software tools used in 3D modeling. The main learning objectives included understanding the history and evolution of 3D printing, exploring the various design methodS, and gaining skill in 3D modeling software. By the end of the week, I had developed a solid grasp of Computer-Aided Design, file formats for 3D printing, and the impact of 3D printing across different industries.
+
+\newpage
+\subsection{Objectives of the Week}
+
+\begin{itemize}
+    \item \textbf{Objective 1:} Understand the history and significance of 3D printing.
+    \item \textbf{Objective 2:} Learn the principles of 3D modeling and design methodologies.
+    \item \textbf{Objective 3:} Explore the different file formats and software tools used in 3D printing.
+\end{itemize}
+
+\subsection{Activities Undertaken}
+
+\subsubsection{\textbf{Activity 1: Introduction to 3D Printing}}
+
+\textbf{Description:} Studied the origins of 3D printing and its various applications in engineering, medicine, architecture, and manufacturing.
+
+\textbf{Challenges Encountered:} Understanding the differences between additive manufacturing and traditional manufacturing methods.
+
+\textbf{Learning Insights:} Learned how 3D printing has evolved from a prototyping tool to a mainstream manufacturing solution.
+
+\subsubsection{\textbf{Activity 2: Learning CAD Software for 3D Design}}
+
+\textbf{Description:} Explored CAD software such as  Tinkercad for 3D modeling.
+
+\textbf{Tools/Resources Used:} CAD software tutorials
+
+\textbf{Challenges Encountered:} Mastering the interface and tool functionalities of different software.
+
+\textbf{Learning Insights:} Gained hands-on experience in designing simple 3D models and understanding parametric design.
+
+\subsubsection{\textbf{Activity 3: Understanding 3D File Formats}}
+
+\textbf{Description:} Studied the different file formats used in 3D printing, including STL, OBJ, and AMF.
+
+\textbf{Tools/Resources Used:}  practical exercises.
+
+\textbf{Challenges Encountered:} Understanding the advantages and limitations of each file format.
+
+\textbf{Learning Insights:} Learned that STL is the most commonly used format but lacks color and material data, whereas AMF and OBJ offer more advanced features.
+
+\newpage
+\subsection{Learning Outcomes}
+
+\begin{itemize}
+    \item \textbf{Technical Skills Developed:} Proficiency in CAD software, familiarity with different file formats, and understanding of design constraints.
+    \item \textbf{Conceptual Understanding:} Gained knowledge of the theoretical aspects of 3D printing, including its history, applications, and design principles.
+    \item \textbf{Methodological Insights:} Learned the structured approach to 3D modeling, including concept creation, prototyping, and optimization.
+\end{itemize}
+
+\newpage
+\subsection{Reflections}
+
+The most interesting aspect of this week was learning how 3D printing can revolutionize industries by enabling rapid prototyping and customization. However, mastering CAD software posed a challenge due to its complexity. This workshop has significantly contributed to my understanding of digital fabrication technologies. To improve future learning experiences, incorporating hands-on design projects would be beneficial.
+
+\newpage
+\subsection{Action Plan for Next Week}
+
+\begin{itemize}
+    \item \textbf{Review Materials:} Study more advanced CAD modeling techniques.
+    \item \textbf{Skill Development:} Practice designing more complex 3D models using Fusion 360.
+    \item \textbf{Preparatory Tasks:} Explore simulation and optimization techniques in CAD software.
+\end{itemize}
+
+\newpage
+\subsection{Appendices (Optional)}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-04-03 at 10.22.37_2a0d89db.jpg}
+\end{figure}
+ \begin{figure}
+     \centering
+     \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-04-03 at 10.22.38_1cf823e7.jpg}
+ \end{figure}
+\end{document}
