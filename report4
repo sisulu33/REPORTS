@@ -1,0 +1,171 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{WEEK 7 REPORT}
+\author{Sisulu Amanya}
+\date{March 2025}
+
+\begin{document}
+
+\maketitle
+
+Faculty of Engineering Design and Technology
+
+Department of Computing and Technology
+
+Recess Weekly Report
+
+Recess Term 2025
+\newpage
+\subsection{1. Title Page}
+
+\textbf{Workshop Title:} Introduction to Network Administration
+
+\textbf{Student Name:} Sisulu Amanya
+
+\textbf{Student ID:} M24B23/006
+
+\textbf{Submission Date:} 3/1/2025
+
+\textbf{Instructor:} 
+
+\newpage
+\subsection{2. Executive Summary}
+
+This week in recess, we began learning about network administration, focusing on setting up virtualized environments for server management. We were required to download and install Oracle VirtualBox on our PCs and subsequently install Ubuntu Live Server. Additionally, we engaged in outreach programs at Bishop Cipriano Kyangire Secondary School and Seeta Secondary School, where we performed preventive maintenance on their computer labs by cleaning and servicing their PCs. These activities provided both hands-on technical experience and an opportunity to contribute to community development.
+
+\newpage
+\subsection{3. Objectives of the Week}
+
+\begin{itemize}
+    \item \textbf{Objective 1:} Understand and practice setting up a virtualized server environment.
+    \item \textbf{Objective 2:} Gain experience installing and configuring Ubuntu Live Server.
+    \item \textbf{Objective 3:} Perform preventive maintenance on computer systems in school labs to get a more hands on experience.
+\end{itemize}
+
+\newpage
+\subsection{4. Activities Undertaken}
+
+\subsubsection{\textbf{Activity 1: Installing Oracle VirtualBox and Ubuntu Live Server}}
+
+\textbf{Description:}
+
+We were required to set up Oracle VirtualBox on our PCs, download the necessary Ubuntu Live Server ISO, and proceed with the installation. The task involved configuring the virtual machine settings and ensuring proper system resource allocation.
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-03-01 at 13.28.49_46776040.jpg}
+\end{figure}
+
+\textbf{Tools/Resources Used:}
+
+\begin{itemize}
+    \item Oracle VirtualBox
+    \item Ubuntu Live Server ISO
+    \item Internet for downloading required files
+\end{itemize}
+\textbf{Challenges Encountered:}
+
+\begin{itemize}
+    \item Slow download speeds affected installation time.
+    \item Configuration errors due to incorrect resource allocation.
+\end{itemize}
+\textbf{Learning Insights:}
+
+\begin{itemize}
+    \item Learned the importance of correct system specifications when setting up virtual machines.
+    \item Gained practical experience in installing and configuring a server operating system.
+\end{itemize}
+
+\subsubsection{\textbf{Activity 2: Preventive Maintenance at Bishop Cipriano Kyangire and Seeta Secondary Schools}}
+
+\textbf{Description:}
+
+We visited two schools to perform preventive maintenance in their computer labs. This involved cleaning dust from internal components, checking for faulty peripherals, and ensuring proper cable management to prevent hardware failures.
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-02-26 at 15.48.31_031b1b60.jpg}
+\end{figure}
+
+\textbf{Tools/Resources Used:}
+
+\begin{itemize}
+    \item  air blowers
+    \item Screwdrivers for opening PC cases
+    \item foam cleaner
+
+
+\end{itemize}
+\textbf{Challenges Encountered:}
+\begin{itemize}
+    \item Some of the schools were located in areas with busy dusty roads and so cleaning was hard because of the dust.
+\end{itemize}
+\textbf{Learning Insights:}
+
+\begin{itemize}
+    \item Preventive maintenance plays a crucial role in prolonging the lifespan of computer hardware.
+    \item Effective teamwork was essential in ensuring all computers were serviced efficiently.
+    \item 
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-02-26 at 15.48.21_2b97d048.jpg}
+\end{figure}
+\end{itemize}
+
+\newpage
+\subsection{5. Learning Outcomes}
+
+\textbf{Technical Skills Developed:}
+
+\begin{itemize}
+    \item Installing and configuring virtual machines and server operating systems.
+    \item 
+\begin{figure}[h]
+        \centering
+        \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-03-01 at 13.28.50_528d9ec2.jpg}
+    \end{figure}
+        \item Understanding the basics of server environments.
+    \item Conducting preventive maintenance on PCs.
+\end{itemize}
+\textbf{Conceptual Understanding:}
+
+\begin{itemize}
+    \item Importance of virtualization in modern network administration.
+    \item Preventive maintenance as a proactive approach to IT management.
+\end{itemize}
+\textbf{Methodological Insights:}
+
+\begin{itemize}
+    \item Step-by-step approach to server installation.
+    \item Proper techniques for handling and maintaining computer hardware.
+\end{itemize}
+
+\newpage
+\subsection{6. Reflections}
+
+This week was both engaging and enlightening. The most interesting aspect was setting up the virtual machine and installing Ubuntu Live Server, as it provided an insight into network administration and server environments. The outreach to the secondary schools was rewarding, as we applied our skills to real-world problems and contributed to improving the learning conditions of students. 
+
+\newpage
+\subsection{7. Action Plan for Next Week}
+
+\begin{itemize}
+    \item \textbf{Review Materials:} Study more about server configurations and network management.
+    \item \textbf{Skill Development:} Practice troubleshooting network and system errors.
+    \item \textbf{Preparatory Tasks:} Research and prepare for more advanced network administration topics.
+\end{itemize}
+
+\newpage
+\subsection{8. Appendices }
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-02-26 at 19.58.40_0c7d108b.jpg}
+\end{figure}
+
+
+
+ \begin{figure}
+     \centering
+     \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-02-26 at 15.46.12_63cce6ad.jpg}
+ \end{figure}
+
+\end{document}
