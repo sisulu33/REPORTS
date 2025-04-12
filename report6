@@ -1,0 +1,177 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{image.png}
+\end{figure}
+
+\section{Faculty of Engineering, Design and Technology }
+
+\textbf{Department of computing}
+
+\textbf{Recess Weekly Report}
+
+ \textbf{Recess Term 2025}
+
+\newpage
+Title Page
+
+\textbf{Workshop Title:} Cybersecurity Fundamentals and Ethical Hacking
+
+\textbf{Student Name:} Sisulu Amanya
+
+\textbf{Student ID:} M24B23/006
+
+\textbf{Submission Date:} 18/3/2025
+
+
+\newpage
+Executive Summary
+
+This week, during our recess term, we engaged in an intensive cybersecurity workshop aimed at building foundational knowledge in ethical hacking, security testing, and penetration testing methodologies. The primary activities revolved around setting up a controlled environment using Oracle VirtualBox, installing Windows, Kali Linux, Metasploitable, and an Android virtual machine. These environments served as a foundation for ethical hacking and security testing.
+
+We explored various cybersecurity concepts, including exploiting vulnerabilities in Windows, privilege escalation techniques, traffic analysis using Wireshark, and Wi-Fi hacking with Aircrack-ng. We also performed vulnerability assessments using Nmap and Nessus and were introduced to SIEM tooling with Wazuh. Through these activities, we gained hands-on experience in practical cybersecurity tactics essential for penetration testing and network security.
+
+\newpage
+Objectives of the Week
+
+\textbf{Objective 1:} Install and configure Oracle VirtualBox with multiple operating systems for ethical hacking.
+
+\textbf{Objective 2:} Understand and execute privilege escalation techniques in Windows environments.
+
+\textbf{Objective 3:} Perform network traffic analysis and Wi-Fi security testing using industry-standard tools.
+
+\textbf{Objective 4:} Conduct vulnerability assessments and introduce SIEM solutions for monitoring security events.
+
+\newpage
+Activities Undertaken
+
+\subsubsection{\textbf{Activity 1: Setting Up Virtualized Environments}}
+
+\textbf{Description:} We installed and configured Oracle VirtualBox and deployed Windows, Kali Linux, Metasploitable, and an Android virtual machine to create a controlled cybersecurity lab.
+
+\textbf{Tools/Resources Used:} Oracle VirtualBox, Windows ISO, Kali Linux ISO, Metasploitable VM, Android Emulator
+
+\textbf{Challenges Encountered:} Some compatibility issues with system configurations and performance optimization.
+
+\textbf{Learning Insights:} The importance of virtualized environments for ethical hacking and security testing.
+
+\subsubsection{\textbf{Activity 2: Exploiting Windows Devices and Privilege Escalation}}
+
+\textbf{Description:} We explored methods of gaining unauthorized access to Windows machines and practiced privilege escalation techniques.
+
+\textbf{Tools/Resources Used:} Metasploit, Windows Security Logs
+
+\textbf{Challenges Encountered:} Bypassing certain security features in modern Windows versions.
+
+\textbf{Learning Insights:} Privilege escalation is a critical concept in cybersecurity defense and penetration testing.
+
+\subsubsection{\textbf{Activity 3: Network Traffic Analysis Using Wireshark}}
+
+\textbf{Description:} We captured and analyzed network traffic to understand packet structures and detect anomalies.
+
+\textbf{Tools/Resources Used:} Wireshark, Ubuntu VM ,Nmap
+
+\textbf{Challenges Encountered:} Filtering relevant traffic data from extensive logs.
+
+\textbf{Learning Insights:} The importance of network monitoring and intrusion detection.
+
+\subsubsection{\textbf{Activity 4: Wi-Fi Hacking with Aircrack-ng}}
+
+\textbf{Description:} We learned how to crack Wi-Fi passwords and analyze wireless security vulnerabilities.
+
+\textbf{Tools/Resources Used:} Aircrack-ng,  Tp-Link access point with WEP
+
+\textbf{Challenges Encountered:} Obtaining sufficient data packets for decryption.
+
+\textbf{Learning Insights:} Wireless networks can be easily compromised without strong encryption and security policies.
+
+\subsubsection{\textbf{Activity 5: Vulnerability Assessment Using Nmap and Nessus}}
+
+\textbf{Description:} We conducted vulnerability scanning to detect weaknesses in networks and systems.
+
+\textbf{Tools/Resources Used:} Nmap, Nessus
+
+\textbf{Challenges Encountered:} Interpreting complex scan results and false positives.
+
+\textbf{Learning Insights:} System vulnerabilities can be systematically identified and mitigated.
+
+\subsubsection{\textbf{Activity 6: Security Information and Event Management (SIEM) with Wazuh}}
+
+\textbf{Description:} We explored SIEM tools for monitoring and analyzing security events in real-time.
+
+\textbf{Tools/Resources Used:} Wazuh SIEM, Ubuntu VM
+
+\textbf{Challenges Encountered:} Initial setup and configuration complexities.
+
+\textbf{Learning Insights:} SIEM tools are essential for proactive cybersecurity monitoring.
+
+\newpage
+Learning Outcomes
+
+\textbf{Technical Skills Developed:}
+
+\begin{itemize}
+    \item Setting up and managing virtualized environments.
+    \item Exploiting and escalating privileges in Windows systems.
+    \item Network traffic analysis and forensic investigation.
+    \item Wireless network security testing and penetration.
+    \item Conducting vulnerability assessments using automated tools.
+    \item Implementing SIEM solutions for cybersecurity monitoring.
+\end{itemize}
+\textbf{Conceptual Understanding:}
+
+\begin{itemize}
+    \item The role of controlled environments in cybersecurity training.
+    \item The significance of ethical hacking in strengthening security measures.
+    \item Importance of traffic analysis in detecting threats.
+    \item Risk assessment methodologies in cybersecurity.
+\end{itemize}
+\textbf{Methodological Insights:}
+
+\begin{itemize}
+    \item Systematic approach to penetration testing.
+    \item Effective use of cybersecurity tools for security analysis.
+    \item Integration of SIEM tools in an enterprise security framework.
+\end{itemize}
+
+\newpage
+Reflections
+
+This week was an eye-opening experience into the world of ethical hacking and cybersecurity. The most interesting part was learning how to exploit vulnerabilities in Windows and analyze network traffic. One of the biggest challenges was configuring virtual machines and troubleshooting installation issues, but it provided valuable lessons in system administration. The workshop contributed significantly to my understanding of penetration testing and vulnerability assessment. In future sessions, I would like to explore more real-world cybersecurity attack scenarios and deepen my knowledge of advanced penetration testing techniques.
+
+\newpage
+Action Plan for Next Week
+
+\textbf{Review Materials:} Metasploit documentation, Wireshark filtering techniques, Nmap scripting.
+
+\textbf{Skill Development:} Advanced privilege escalation methods, deeper SIEM integration.
+
+\textbf{Preparatory Tasks:} Set up additional virtual machines for advanced testing, explore more wireless security techniques.
+
+\newpage
+Appendices (Optional)
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-03-17 at 20.35.15_c87c1b8f.jpg}
+\end{figure}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-03-17 at 20.35.15_56529ccf.jpg}
+\end{figure}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-03-17 at 20.35.15_722d09bd.jpg}
+\end{figure}
+
+ 
+\end{document}
