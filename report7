@@ -1,0 +1,117 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{WEEK 10 REPORT}
+\author{Sisulu Amanya}
+\date{March 2025}
+
+\begin{document}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{image.png}
+\end{figure}
+\maketitle
+\textbf{Faculty of Engineering, Design and Technology}
+
+\textbf{Department of Computing}
+
+\textbf{Recess Weekly Report}
+
+\textbf{Recess Term 2025}
+\newpage
+\subsubsection{\textbf{1. Title Page}}
+
+\textbf{Workshop Title:} System Administration and Virtualization
+
+\textbf{Student Name:} Sisulu Amanya
+
+\textbf{Student ID:} M24B23/006
+
+\newpage
+\subsubsection{\textbf{2. Executive Summary}}
+
+In Week Ten, we focused on system administration, specifically the installation and configuration of Proxmox as a virtual environment. Proxmox is an open-source server virtualization platform used to manage virtual machines  efficiently. During this session, we installed Proxmox and used it to create a virtual machine  using the FreePBX ISO image, an open-source communication server based on Asterisk. After successfully setting up the system, we connected and configured two Cisco landline phones to enable communication between them. This report outlines the installation process, the role of Proxmox in virtualization, the functionality of FreePBX software, and a detailed step-by-step guide on how we configured the system.
+
+\newpage
+\subsubsection{\textbf{3. Objectives of the Week}}
+
+\begin{itemize}
+    \item \textbf{Objective 1:} Understand and install Proxmox as a virtual environment.
+    \item \textbf{Objective 2:} Create and configure a virtual machine using the FreePBX ISO image.
+    \item \textbf{Objective 3:} Set up and configure Cisco landline phones for internal communication.
+\end{itemize}
+
+\newpage
+\subsubsection{\textbf{4. Activities Undertaken}}
+
+\paragraph{\textbf{Activity 1: Installation of Proxmox}}
+
+\textbf{Description:} Installed Proxmox on a physical server and configured the environment to host virtual machines.
+
+\textbf{Tools/Resources Used:} Proxmox ISO, Network Configuration Tools
+
+\textbf{Challenges Encountered:}Installing the ISO Image.
+
+\textbf{Learning Insights:} Gained knowledge in virtual environment setup and configuration.
+
+\paragraph{\textbf{Activity 2: Setting Up FreePBX on a Virtual Machine}}
+
+\textbf{Description:} Created a virtual machine within Proxmox and installed FreePBX, an open-source telephony system.
+
+\textbf{Tools/Resources Used:} FreePBX ISO, Proxmox Virtualization
+
+\textbf{Challenges Encountered:} Network bridging and configuring SIP trunks.
+
+\textbf{Learning Insights:} Improved understanding of  virtual machine configurations.
+
+\paragraph{\textbf{Activity 3: Configuring Cisco Landline Phones}}
+
+\textbf{Description:} Connected two Cisco landline phones to the FreePBX server and configured extensions for internal communication.
+
+\textbf{Tools/Resources Used:} Cisco IP Phones, FreePBX Web Interface, SIP Protocol
+
+\textbf{Challenges Encountered:} Initial setup issues
+
+\textbf{Learning Insights:} Learned how to troubleshoot SIP registration issues and configure VoIP devices.
+
+\newpage
+\subsubsection{\textbf{5. Learning Outcomes}}
+
+\begin{itemize}
+    \item \textbf{Technical Skills Developed:}
+    \begin{itemize}
+        \item Installation and configuration of Proxmox VE.
+        \item Virtual machine creation and FreePBX setup.
+        \item SIP trunk configuration and VoIP device integration.
+    \end{itemize}
+    \item \textbf{Conceptual Understanding:}
+    \begin{itemize}
+        \item Virtualization concepts and their role in system administration.
+        \item The functionality of FreePBX in managing voice communication.
+    \end{itemize}
+    \item \textbf{Methodological Insights:}
+    \begin{itemize}
+        \item Step-by-step troubleshooting of VoIP and network configurations.
+        \item Best practices in virtualization and telephony setup.
+    \end{itemize}
+\end{itemize}
+
+\newpage
+\subsubsection{\textbf{6. Reflections}}
+
+This week's activities provided an in-depth understanding of system administration and virtualization. The most challenging aspect was configuring the SIP trunks and ensuring smooth communication between Cisco landline phones. However, overcoming these challenges enhanced my troubleshooting skills. This experience contributes to my overall goal of mastering IT infrastructure management, and I look forward to exploring more advanced networking topics.
+
+\newpage
+\subsubsection{\textbf{7. Action Plan for Next Week}}
+
+\begin{itemize}
+    \item \textbf{Review Materials:} Study advanced VoIP configurations and network security in virtualization.
+    \item \textbf{Skill Development:} Practice troubleshooting network and SIP-related issues.
+    \item \textbf{Preparatory Tasks:} Research integration of FreePBX with external VoIP providers.
+\end{itemize}
+
+
+
+ 
+
+\end{document}
