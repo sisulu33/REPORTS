@@ -1,0 +1,174 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{WEEK 5 REPORT}
+\author{Sisulu Amanya}
+\date{February 2025}
+
+\begin{document}
+
+\maketitle
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{image.png}
+\end{figure}
+\textbf{Facaulty Of Engineering Design And Technology}
+
+\textbf{Department of computing and technology}
+
+ Recess Term 2025
+
+\newpage
+
+\subsubsection{\textbf{1. Title Page}}
+
+\textbf{Workshop Title:} Networking Essentials and Practical Implementation
+
+ \textbf{Student Name:} Amanya Sisulu
+
+ \textbf{Student ID:} M24B23/006
+
+ \textbf{Submission Date:} 2/15/2025
+
+ \textbf{Instructor:} Mr. Aggrey Mbogo
+
+ \newpage
+
+\subsubsection{\textbf{2. Executive Summary}}
+
+During this week's recess workshop, we focused on various networking concepts and hands-on implementation using Cisco Packet Tracer and physical networking equipment. The key topics covered included budgeting for a network setup, designing both logical and physical layouts for an internet café, cable termination using the T-568B color code, VLAN configuration, inter-VLAN routing, DHCP server activation on a router, and switch configuration.
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=1\linewidth]{Screenshot 2025-02-15 212645.png}
+\end{figure}
+\newpage
+
+\subsubsection{\textbf{3. Objectives of the Week}}
+
+\begin{itemize}
+    \item \textbf{Objective 1:} Plan and design a network setup for an internet café.
+    \item \textbf{Objective 2:} Learn and implement VLAN configuration, inter-VLAN routing, and DHCP setup.
+    \item \textbf{Objective 3:} Develop practical skills in cable termination and switch configuration.
+\end{itemize}
+
+\newpage
+
+\subsubsection{\textbf{4. Activities Undertaken}}
+
+\paragraph{\textbf{Activity 1: Planning and Designing the Network Setup}}
+
+\textbf{Description:}
+
+\begin{itemize}
+    \item Discussed the key considerations for setting up a network within an internet café.
+    \item Created a budget plan, factoring in hardware, software, cabling, and maintenance costs.
+    \item Designed a logical network topology using Cisco Packet Tracer.
+    \item Developed a corresponding physical layout, ensuring efficient cable management and optimal placement of networking devices.
+\end{itemize}
+\textbf{Tools/Resources Used:} Cisco Packet Tracer, Google Docs.
+
+ \textbf{Challenges Encountered:} Budget constraints and design inefficiencies.
+
+ \textbf{Learning Insights:} Importance of structured planning and budgeting in networking.
+ \begin{figure}[h]
+     \centering
+     \includegraphics[width=0.75\linewidth]{Screenshot 2025-02-15 212645.png}
+    }
+ \end{figure}
+
+\paragraph{\textbf{Activity 2: Cable Termination Using T-568B Standard}}
+
+\textbf{Description:}
+
+\begin{itemize}
+    \item Practiced terminating Ethernet cables using the T-568B color code.
+    \item Tested cable continuity and connectivity using appropriate testing tools.
+.
+\end{itemize}
+\textbf{Tools/Resources Used:} Ethernet cables, RJ-45 connectors, crimping tools, cable testers.
+
+ \textbf{Challenges Encountered:} Some members faced difficulties in terminating cables correctly.
+
+ \textbf{Learning Insights:} Proper technique and practice improve cable termination skills.
+ 
+\begin{figure}
+     \centering
+     \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-02-12 at 12.11.08_3f8ec4f2.jpg}
+     
+ \end{figure}
+  
+
+\paragraph{\textbf{Activity 3: VLAN Assignment }}
+
+\textbf{Description:}
+
+\begin{itemize}
+    \item Configured VLANs on a switch to segment the network for improved performance and security.
+    \item Assigned ports to  VLAN using the CLI on Ubuntu with Picocom.
+    \item Verified connectivity using ping commands.
+\end{itemize}
+\textbf{Tools/Resources Used:} Cisco switches, Ubuntu terminal with Picocom,.
+
+ \textbf{Challenges Encountered:} Initial misconfigurations in VLAN .
+
+ \textbf{Learning Insights:} Troubleshooting and correct VLAN configuration enhance network efficiency.
+ \begin{figure}
+     \centering
+     \includegraphics[width=1\linewidth]{WhatsApp Image 2025-02-15 at 21.38.41_0daa0f21.jpg}
+ \end{figure}
+
+\paragraph{\textbf{Activity 4: Switch Configuration}}
+
+\textbf{Description:}
+
+\begin{itemize}
+    \item Configured basic switch settings such as hostname and passwords.
+    \item Enabled port security to prevent unauthorized access.
+    \item Applied VLAN assignments and tested connectivity between VLANs.
+    \item Implemented trunking between switches to support multiple VLANs.
+\end{itemize}
+\textbf{Tools/Resources Used:} Cisco switches, Ubuntu with Picocom.
+
+ \textbf{Challenges Encountered:} Misconfigurations in VLAN assignments.
+
+ \textbf{Learning Insights:} Ensuring correct switch settings improves network performance.
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-02-15 at 21.38.40_df1808d4.jpg}
+\end{figure}
+\newpage
+
+\subsubsection{\textbf{5. Learning Outcomes}}
+
+\begin{itemize}
+    \item \textbf{Technical Skills Developed:} VLAN configuration, DHCP server setup, cable termination, inter-VLAN routing.
+    \item \textbf{Conceptual Understanding:} Network topology design, structured cabling.
+    \item \textbf{Methodological Insights:} Importance of  troubleshooting and structured planning in network design.
+\end{itemize}
+
+\newpage
+\subsubsection{\textbf{6. Reflections}}
+
+\textbf{Personal Insights:}
+
+ This week’s workshop provided valuable hands-on experience in networking fundamentals, emphasizing the importance of structured planning, correct configuration, and troubleshooting. The most challenging aspect was configuring VLANs and troubleshooting connectivity issues, but this ecouraged the need for planning and validation. The activities contributed significantly to achieving the overall workshop goals, and future sessions could benefit from additional  exercises.
+\begin{figure}
+    \centering
+    \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-02-12 at 12.11.10_bde50f6f.jpg}
+\end{figure}
+\newpage
+
+\subsubsection{\textbf{7. Action Plan for Next Week}}
+
+\begin{itemize}
+    \item \textbf{Review Materials:} Networking fundamentals, VLAN and DHCP concepts.
+    \item \textbf{Skill Development:} Advanced security configurations, firewall setup, and network troubleshooting techniques, inter-vlan routing.
+    \item \textbf{Preparatory Tasks:} Researching network security best practices and configuring firewalls.
+\end{itemize}
+
+\newpage
+
+
+
+
+\end{document}
