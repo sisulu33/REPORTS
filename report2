@@ -1,0 +1,147 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{lipsum}
+\usepackage{placeins}
+\usepackage{hyperref}
+
+\begin{document}
+\begin{figure}
+    \centering
+    \includegraphics[width=1.0\linewidth]{image2.png}
+\end{figure}
+
+
+\title{ FACULTY OF ENGINEERING DESIGN AND TECHNOLOGY
+
+DEPARTMENT OF COMPUTING AND TECHNOLOGY
+
+RECESS WEEKLY REPORT}
+\date{2025}
+\maketitle
+\newpage
+
+\section*{Title Page}
+\begin{itemize}
+    \item \textbf{Workshop Title:} Computer Hardware and Maintenance
+    \item \textbf{Student Name:} Amanya Sisulu
+    \item \textbf{Student ID:} M24B23/006
+    \item \textbf{Submission Date:} 08/02/2025
+    \item \textbf{Instructor:} Mr. Kasole Ahmed
+\end{itemize}
+\newpage
+
+\section*{Executive Summary}
+This week's workshop focused on understanding the fundamental hardware components of a computer, installing an operating system, and performing maintenance procedures such as cleaning a PC. The sessions included hands-on experience with assembling and disassembling a computer, identifying key internal components, and troubleshooting common hardware issues. Additionally, we learned the step-by-step process of installing an operating system, configuring basic settings, and ensuring the system runs efficiently. The workshop also covered best practices for cleaning and maintaining a computer to prevent hardware failure and improve performance. Overall, this week’s activities provided a solid foundation in computer hardware and essential maintenance skills.
+\newpage
+
+\section*{Objectives of the Week}
+\begin{itemize}
+    \item Understand and identify the major hardware components of a computer.
+    \item Learn the process of installing and configuring an operating system.
+    \item Develop skills in cleaning and maintaining a PC to ensure optimal performance.
+\end{itemize}
+\newpage
+
+\section*{Activities Undertaken}
+\subsection*{Understanding Computer Hardware Components}
+\begin{itemize}
+    \item \textbf{Description:} Explored various computer hardware components, including the CPU, RAM, motherboard, power supply, storage devices, and peripheral components.
+    \item 
+\begin{wrapfigure}{r}{0.5\linewidth}
+        \centering
+        \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-02-04 at 09.09.16_78dd04b0.jpg}
+    \end{figure}
+    \FloatBarrier
+        \item \textbf{Tools/Resources Used:} Computer components, hardware manuals, online resources.
+    \item \textbf{Challenges Encountered:} Identifying specific motherboard connectors and understanding the function of less commonly known components.
+    \item \textbf{Learning Insights:} Gained a comprehensive understanding of how different components interact to form a functional computing system.
+\end{itemize}
+
+\subsection*{Installing an Operating System}
+\begin{itemize}
+    \item \textbf{Description:} Learned the step-by-step process of installing an OS, including BIOS configuration, partitioning drives, and setting up drivers.
+    \item \textbf{Tools/Resources Used:} Bootable USB drive, Windows OS installation files, a desktop.
+    \item \textbf{Challenges Encountered:} Faced issues with bootable media not being detected, requiring troubleshooting in BIOS settings.
+    \item 
+\begin{wrapfigure}{r}{0.5\linewidth}
+        \centering
+        \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-02-05 at 11.48.34_b47ee455.jpg}
+        
+
+    \end{figure}
+    \FloatBarrier
+        \item \textbf{Learning Insights:} Understood the importance of correct boot order settings and learned how to troubleshoot installation errors effectively.
+\end{itemize}
+\begin{wrapfigure}{r}{0.5\linewidth}
+    \centering
+    \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-02-05 at 11.49.31_5d183dd2.jpg}
+\end{figure}
+\FloatBarrier
+\subsection*{Cleaning and Maintaining a PC}
+\begin{itemize}
+    \item \textbf{Description:} Practiced cleaning internal and external PC components to prevent dust buildup and overheating.
+    \item 
+\begin{wrapfigure}{r}{0.5\linewidth}
+        \centering
+        \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-02-04 at 09.09.20_856b9972.jpg}
+    \end{figure}
+    \FloatBarrier
+        \item \textbf{Tools/Resources Used:} Blower, microfiber cloth, cleaning Foam, screwdrivers.
+    \item \textbf{Challenges Encountered:} Removing dust from hard-to-reach areas and applying foam correctly.
+    \item 
+\begin{wrapfigure}{r}{0.5\linewidth}
+        \centering
+        \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-02-04 at 09.09.22_710ee971.jpg}
+    \end{figure}
+    \FloatBarrier
+        \item \textbf{Learning Insights:} Realized the importance of regular maintenance to prevent hardware damage and improve overall system longevity.
+\end{itemize}
+\newpage
+
+\section*{Learning Outcomes}
+\begin{itemize}
+    \item \textbf{Technical Skills Developed:} PC assembly and disassembly, BIOS navigation, OS installation, hardware troubleshooting, and PC maintenance.
+    \item 
+\begin{wrapfigure}{r}{0.5\linewidth}
+        \centering
+        \includegraphics[width=0.75\linewidth]{WhatsApp Image 2025-02-07 at 08.31.10_976ab7c8.jpg}
+    \end{figure}
+    \FloatBarrier
+        \item \textbf{Conceptual Understanding:} Gained knowledge of hardware interactions, OS installation procedures, and best practices for PC upkeep.
+    \item \textbf{Methodological Insights:} Developed a systematic approach to diagnosing hardware issues and maintaining a computer for long-term efficiency.
+\end{itemize}
+\newpage
+
+\section*{Reflections}
+This week was highly engaging and informative, especially learning about different hardware components and their roles in system performance. The most challenging aspect was troubleshooting OS installation errors, which required patience and careful attention to BIOS settings. The workshop contributed significantly to my understanding of computer maintenance and reinforced the importance of regular cleaning and hardware inspections. For future sessions, incorporating more real-life troubleshooting scenarios could further enhance the learning experience.
+\newpage
+
+\section*{Action Plan for Next Week}
+\begin{itemize}
+    \item \textbf{Review Materials:} Study detailed guides on hardware troubleshooting and OS configuration.
+    \item \textbf{Skill Development:} Practice reinstalling an OS on different hardware setups and optimizing system settings.
+    \item \textbf{Preparatory Tasks:} Research common PC issues and possible solutions for further hands-on troubleshooting experience.
+\end{itemize}
+\newpage
+
+\section*{Appendices}
+\begin{wrapfigure}{r}{0.5\linewidth}
+    \centering
+    \includegraphics[width=1\linewidth]{WhatsApp Image 2025-02-07 at 08.31.10_6aec5ae5.jpg}
+\end{figure}
+ \FloatBarrier
+\begin{wrapfigure}{r}{0.5\linewidth}
+    \centering
+    \includegraphics[width=1\linewidth]{WhatsApp Image 2025-02-07 at 08.31.11_7a4a590c.jpg}
+\end{figure}
+ \FloatBarrier
+\begin{wrapfigure}{r}{0.5\linewidth}
+    \centering
+    \includegraphics[width=1\linewidth]{WhatsApp Image 2025-02-05 at 11.49.13_943a3d53.jpg}
+\end{figure}
+ \FloatBarrier
+\newpage
+
+
+
+\end{document}
